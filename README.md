@@ -9,3 +9,4 @@ This repository is for learning to use Github.
 ```math
 E = \sum^b_a
 ```
+$$E = \sum^b_a$$
