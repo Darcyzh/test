@@ -1,4 +1,4 @@
 # test
 This repository is for learning to use Github.
 ## branch2 commit
-$ x $
+formula1:$$ x $$
