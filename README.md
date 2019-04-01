@@ -7,6 +7,5 @@ This repository is for learning to use Github.
 ### test
 
 ```math
-E = \sum^b_a
+e^{i\pi} + 1 = 0
 ```
-$$E = \sum^b_a$$
